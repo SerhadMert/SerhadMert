@@ -8,7 +8,7 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" />
 
 
-<h4 align="center">Connect with me:</h3><p align="center">
+<h4 align="center">Contact with me on:</h3><p align="center">
 <a href="https://twitter.com/serhad_mert" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="serhad_mert"/></a>
 <a href="https://www.linkedin.com/in/serhadmert" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="serhad_mert"/></a></p>
 
