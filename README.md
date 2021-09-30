@@ -13,4 +13,4 @@
 <a href="https://www.linkedin.com/in/serhadmert" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="serhad_mert"/></a></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiraiNatsu&show_icons=true&theme=radical" alt="MiraiNatsu" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SerhadMert&show_icons=true&theme=radical" alt="SerhadMert" /></p>
